@@ -1,5 +1,5 @@
 {
-    "name": "gremo/zurb-ink-bundle",
+    "name": "pfx2/zurb-ink-bundle",
     "type": "symfony-bundle",
     "description": "Creating email templates is hard. This Bundle provides help.",
     "keywords": [
